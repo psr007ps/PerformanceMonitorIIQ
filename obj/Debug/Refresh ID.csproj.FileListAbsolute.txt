@@ -1,0 +1,14 @@
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.csprojResolveAssemblyReference.cache
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.csproj.CoreCompileInputs.cache
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.exe.config
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.exe
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.pdb
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.exe
+\\nu.com\data\userdata\userswin03\shrivp\Desktop\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.pdb
+C:\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.exe.config
+C:\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.exe
+C:\refresh id\Refresh ID\Refresh ID\bin\Debug\Refresh ID.pdb
+C:\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.csprojResolveAssemblyReference.cache
+C:\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.csproj.CoreCompileInputs.cache
+C:\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.exe
+C:\refresh id\Refresh ID\Refresh ID\obj\Debug\Refresh ID.pdb
